@@ -1,0 +1,8 @@
+C:\Users\Ryan Piper\Desktop\GitHub Folders\calculatorwithtests-Rmpiper96\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.deps.json
+C:\Users\Ryan Piper\Desktop\GitHub Folders\calculatorwithtests-Rmpiper96\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.runtimeconfig.json
+C:\Users\Ryan Piper\Desktop\GitHub Folders\calculatorwithtests-Rmpiper96\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.runtimeconfig.dev.json
+C:\Users\Ryan Piper\Desktop\GitHub Folders\calculatorwithtests-Rmpiper96\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.dll
+C:\Users\Ryan Piper\Desktop\GitHub Folders\calculatorwithtests-Rmpiper96\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.csprojAssemblyReference.cache
+C:\Users\Ryan Piper\Desktop\GitHub Folders\calculatorwithtests-Rmpiper96\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Piper\Desktop\GitHub Folders\calculatorwithtests-Rmpiper96\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\Ryan Piper\Desktop\GitHub Folders\calculatorwithtests-Rmpiper96\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.AssemblyInfo.cs
